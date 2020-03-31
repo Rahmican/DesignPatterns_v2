@@ -1,14 +1,14 @@
 1.Creational Design Pattern
 
-		Factory Pattern
+		+Factory Pattern
 
 		Abstract Factory Pattern
 
-		Singleton Pattern
+		+Singleton Pattern
 
 		Prototype Pattern
 
-		Builder Pattern.
+		Builder Pattern
 	
 2. Structural Design Pattern
 

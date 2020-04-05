@@ -8,7 +8,7 @@
 
 		Prototype Pattern
 
-		Builder Pattern
+		+Builder Pattern
 	
 2. Structural Design Pattern
 
